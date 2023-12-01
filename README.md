@@ -1,8 +1,1 @@
-# -PYTHON-Rock-Paper-Scissors-by-WoXille
-a simple Rock Paper Scissors in python with recursion
-
-
-
-
-
-Free Code, use it how you want ! :)
+# FREE CODE ! Use it as you wish ! ;)
